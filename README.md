@@ -1,2 +1,2 @@
-# chupchi.landing
-ChupChi Landing Page
+# chupchi
+ChupChi Page
